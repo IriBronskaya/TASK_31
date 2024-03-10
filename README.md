@@ -17,10 +17,10 @@
 
 ## Список логинов и паролей для авторизации:<br>
 
-#Admin User
+# Admin User
 Логин / Пароль
 admin / 123
 
-#Test User
+# Test User
 Логин / Пароль
 test / 123
